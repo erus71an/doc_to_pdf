@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+requests==2.31.0
+prometheus-client==0.16.0
+python-multipart==0.0.6
+black==23.9.1
+flake8==6.1.0
